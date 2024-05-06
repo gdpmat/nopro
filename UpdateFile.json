@@ -1,12 +1,41 @@
 {
-    "Reward": "ca-app-pub-4423984643680166/5719291929",
-    "Inter": "ca-app-pub-4423984643680166/1872412227",
-    "version": 1,
-    "message": "What's new \nAdded new server",
-    "true": "True SIM Tips \nTrue...",
-    "files": [
-        {
-            "config": "dDv3dOEIkUUbUoWEMXvQ4sFD4PfHcbEepeAevjekXtF5jioK1rAivXvRUKEEM9kiAGbAeiEzoOlPDnWRC0tiA3PM2BUgNfEe5H1Q6fu0kKaLY/j44ZLx5JgU9Xs8zzRb1l+DcuX9c4zFhXSvmx8eOiI82TKliny+tTaf1eR5JrZblpCJoNJ2QBhcr1vGfBYF8lxX5Af/lVXqHYP4CVPxuVqb4WBxkxqfOZLK2BnGe/7Kg+2hevKz1buzU0njDtVW1NUN7M8el3i5odHmcpJg4f//Th9BuF6ji6uoEVASF5uEALkIk6d/tOUGgxpCAn40NpHzEYl/MfA3UMr/uFiON1acEmV61gVU1zIE3p6vLcGchZk+hnIivAIQCJKhwO+vq43c8AmbG/eV7YT/MkglxsyOa25qBYr1nxRE1euZudD7olo0EFhzpBBKVsbRUmfW"
-        }
-    ]
+"Banner": "",
+"Reward": "ca-app-pub-4423984643680166/5719291929",
+"Inter": "ca-app-pub-4423984643680166/1872412227",
+"version": 1,
+"message": "What's new \nAdded new server",
+
+"files": [
+
+{
+         //server-1
+         "config": "dDv3dOEIkUUbUoWEMXvQ4sFD4PfHcbEepeAevjekXtF5jioK1rAivXvRUKEEM9kiAGbAeiEzoOlPDnWRC0tiA3PM2BUgNfEe5H1Q6fu0kKaLY/j44ZLx5JgU9Xs8zzRb1l+DcuX9c4zFhXSvmx8eOiI82TKliny+tTaf1eR5JrZblpCJoNJ2QBhcr1vGfBYF8lxX5Af/lVXqHYP4CVPxuVqb4WBxkxqfOZLK2BnGe/7Kg+2hevKz1buzU0njDtVW1NUN7M8el3i5odHmcpJg4f//Th9BuF6ji6uoEVASF5uEALkIk6d/tOUGgxpCAn40NpHzEYl/MfA3UMr/uFiON1acEmV61gVU1zIE3p6vLcGchZk+hnIivAIQCJKhwO+vq43c8AmbG/eV7YT/MkglxsyOa25qBYr1nxRE1euZudD7olo0EFhzpBBKVsbRUmfW"
+     
+},
+{
+        //server-2
+         "config": ""
+      },
+
+{
+        //server-3
+         "config": ""
+      },
+      
+      {
+        //server-4
+         "config": ""
+      }
+      
+
+   ],
+
+
+   "dtac": "ถ้าคุณใช้ Dtac SIM คุณไม่จำเป็นต้องสมัครอะไร \n• เลือกไฟล์ DtacNoPro แล้วเชื่อมต่อ \n \n(Dtac มักจะออฟไลน์)",
+
+   "true": "ถ้าใช้ True SIM กด *935*99# ฟรี ไม่ใช้เงิน แล้ว \n • เลือกไฟล์ TrueNoPro แล้วเชื่อมต่อ \n \n(ถ้าเชื่อมต่อไม่ได้ให้เติมเงิน 20 บาทในโทรศัพท์แล้วลองเชื่อมต่ออีกครั้ง)",
+   
+   "ais": "ถ้าใช้ Ais SIM สมัครได้ทั้งสองแพ็กเกจด้านล่าง\n*777*7067# 31B จะถูกใช้\n*777*885# 59B จะถูกใช้ \n \nถ้าสมัครทั้งคู่ \n • เลือก ไฟล์ AisPlay แล้วเชื่อมต่อ \n \n(หากเชื่อมต่อไม่ได้เลย ให้เปิดและปิดโหมดเครื่องบิน)"
+
+
 }

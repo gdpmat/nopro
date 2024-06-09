@@ -2,29 +2,29 @@
 "Banner": "ca-app-pub-4423984643680166/7936764292",
 "Reward": "",
 "Inter": "",
-"version": 3,
-"message": "🙏 สวัสดี มีอะไรใหม่😎 \nอัพเดท Server ใหม่ แก้ปัญหา เชื่อมต่อไม่ได้ กรุณากด ✅ อัพเดทไฟล์เพื่อแก้ปัญหาดังกล่าว ครับ 😉",
+"version": 4,
+"message": "🙏 สวัสดี มีอะไรใหม่😎 \nอัพเดท Server ใหม่ แก้ปัญหา เชื่อมต่อไม่ได้ เพิ่ม Server AisPlay กรุณากด ✅ อัพเดทไฟล์เพื่อแก้ปัญหาดังกล่าว ครับ 😉",
 
 "files": [
 
 {
          //server-1
-         "config": "zNP/OfrxJGjOuztDel75L2yEjhJOUSA4XmCglQlqE29CibjVZ7laxKO6z9QwBr4RF71vu/EMkmMmSOK1KhBG0xxp2KYfUADGIPVl33Hy/x7/HdhV41dn9uFCRzirj0QIUELZetMXfxQ4GCPkEadrBBIMDwmul+uNoca3RPwdvUWyOZx2C56dto8u668qtkJdWjY5SjA6peFVc0phRbyx+6cVw27jVXK28ySoqll9VF+989xSP4v9niVys7uV9cBSZOrPqoAtyOplkKxLxV56UMVThggLfLQOZngHrr8LYHahPX9VtTnSvo+fhGjvwsnthGClJ6luiZT38QAb33HGOHiNOuzntj/tA0KgChUQ8lOOzNywk70TpDsewcwNn46FSig10C+w7MXLreuIgetR76bzQPPdG45n184X1BLl9xa51BUNHYFZyBknVFnkMouSQzZutQ=="
+         "config": "Dsi1Ls4JPcjnFG2HgZz7YzTETfkYt+Fw358b9llxygoLs0HxZuK7dyIgKDCwVxE5EYZl4bHmbTP/lxIfY2g/7hoqWUaoNmw7dC6Eyfsx0WzzBYgwkngehDb8u9LLKBtYp/BltuLCsjbvToSrAhHqelATN78dmVr2/kGFQyd3gsRBM7jjli5+lk1gpLs3z4CR28y5S1O4ObUNFxSYdurLE/ePdIem6xwc"
      
 },
 {
         //server-2
-         "config": "ZgN4BYZEWKYGsPZ5hBKhIftHf0a+ntTMWRCuR82hGYdcMm9J8mX5mzo0nGa5BbEchkciXjGD3RqJNDYPNMo2VLt1QYN1uLILJTWNTrpjpVKJLIAu5tU8Z/f3r9kJCcB+3YPynnZa6OJWHEnsEtUUjRyjxnzPifA7QUmHr6b6IZBZpRvXq8dbHuh7XSE5XVGZG/Hyf7AyX9K8N1b1GaAMSDtZIYE3uHcsJYU9HROeLTRxtRoKwIuHyQ+fbIuIohMD7z+DsTwK52nKoP3g3ASjcBn5Li0s3N3e/cff7u6igXevRo3diYeVwnhrRj80qpBauNjdTSVzTOUFODpePrLowRxcXlGubuhg4ID4fufevONOE2ByfpEaFlkCK5RXvU61xFwRZdg05hRkohzUruALn7CFT4kVNgPdcElEZdMAz3DMflqL8Ou7Q0JAn35R2qwQ"
+         "config": "enIZmbAVYdgrv9/iPN16HzgioG4dwwBbfiyolE1kGs8dbI6pvjGL2I1bVYJJcjGbRf0NMiTgcZnQit1h1u14q5dUudN7HirDwctZgXsAjYoea93mgCZmI3yw5z0gEL3j5HXlUw5lglov8QEd1b2Vle185TuIF0uW7InvIXbmV7/yJZnWBdthDYro5lfR+kJb09meTg9XjNyPtawKFFdM0xfgAAuC/yT8"
       },
 
 {
         //server-3
-         "config": "Dsi1Ls4JPcjnFG2HgZz7YzTETfkYt+Fw358b9llxygoLs0HxZuK7dyIgKDCwVxE5EYZl4bHmbTP/lxIfY2g/7hoqWUaoNmw7dC6Eyfsx0WzzBYgwkngehDb8u9LLKBtYp/BltuLCsjbvToSrAhHqelATN78dmVr2/kGFQyd3gsRBM7jjli5+lk1gpLs3z4CR28y5S1O4ObUNFxSYdurLE/ePdIem6xwc"
+         "config": ""
       },
       
       {
         //server-4
-         "config": "enIZmbAVYdgrv9/iPN16HzgioG4dwwBbfiyolE1kGs8dbI6pvjGL2I1bVYJJcjGbRf0NMiTgcZnQit1h1u14q5dUudN7HirDwctZgXsAjYoea93mgCZmI3yw5z0gEL3j5HXlUw5lglov8QEd1b2Vle185TuIF0uW7InvIXbmV7/yJZnWBdthDYro5lfR+kJb09meTg9XjNyPtawKFFdM0xfgAAuC/yT8"
+         "config": ""
       }
       
 
